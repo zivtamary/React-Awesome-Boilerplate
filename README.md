@@ -7,6 +7,7 @@ A comprehensive starter kit for rapid application development using React.
 - TypeScript
 - Redux-Toolkit
 - React-i18n
+- React-Router-Dom
 - Storybook
 - React-Helmet
 
