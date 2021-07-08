@@ -1,5 +1,6 @@
 {
-  "name": "react-typescript",
+  "name": "react-boilerplate",
+  "author": "Ziv Tamary",
   "version": "1.0.0",
   "description": "React and TypeScript example starter project",
   "keywords": [
